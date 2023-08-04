@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhmohmmed&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhmohmmed" /> </p>
 
-- 🌱 I’m currently learning **Python and ML**
+- 🌱 I’m currently learning **Laravel and AI**
 
 - 📫 How to reach me **shaikhmohmmed00@gmail.com**
 
